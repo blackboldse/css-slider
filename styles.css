@@ -12,7 +12,6 @@
 body { margin: 0;}
 
 .slider-img{
-  background-size: auto;
 }
 
 #slider{ overflow: hidden; }
